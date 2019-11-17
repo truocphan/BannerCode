@@ -1,6 +1,6 @@
 # BannerCode
 
-`def banner():
+```def banner():
 	print("""
 ========================================================
   _______                      _____  _                 
@@ -17,4 +17,4 @@
  [+] Youtube:  https://www.youtube.com/channel/UCik-VqtPAeTus96sYMaiuBQ
 
 ========================================================
-""")`
+""")```
