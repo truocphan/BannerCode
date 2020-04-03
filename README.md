@@ -16,7 +16,7 @@ def banner():
  [+] Github:   https://github.com/truocphan
  [+] Discord:  https://discord.gg/fuBe3af
  [+] Gmail:    truocphan112017@gmail.com
- [+] Youtube:  https://www.youtube.com/channel/UCik-VqtPAeTus96sYMaiuBQ
+ [+] Youtube:  https://www.youtube.com/channel/UCtQSQrgAQSTKdvsEzrfpBzQ
 
 =========================================================================
 =========================================================================
