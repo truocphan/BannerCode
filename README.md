@@ -21,6 +21,7 @@ def banner():
  [+] Gmail:    truocphan112017@gmail.com
 
 =========================================================================
+=========================================================================
 ''')
 	print(Fore.GREEN + ' [+] Operating System: ' + platform.system() + ' ' + platform.release() + ' (Version: ' + platform.version() + ')' if platform.system() in ['Windows', 'Linux'] else Fore.RED + ' [-] Operating System: macOS ' + platform.release() + ' (Version: ' + platform.version() + ')')
 	print(Fore.GREEN + ' [+] Python Version: ' + platform.python_version() if platform.python_version()[0] == '3' else Fore.RED + ' [-] Python Version: ' + platform.python_version())
